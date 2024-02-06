@@ -1,0 +1,67 @@
+.flex{
+    display: flex;
+}
+
+.fd_col{
+    flex-direction: column;
+}
+
+.fd_row{
+    flex-direction: row;
+}
+
+.al_center{
+    align-items: center;
+}
+
+.al_end{
+    align-items: end;
+}
+
+li{
+    list-style-type: none;
+}
+
+.gap_1{
+    gap: 1rem;
+}
+
+.gap_0_5{
+    gap: 0.5rem;
+}
+
+.gap_4{
+    gap: 4rem;
+}
+
+.jc_center{
+    justify-content: center;
+}
+
+.jc_end{
+    justify-content: end;
+}
+
+.jc_between{
+    justify-content: space-between;
+}
+
+.p_20{
+    padding: 20px;
+}
+
+.p_10{
+    padding: 10px;
+}
+
+.br_40{
+    border-radius: 60%;
+}
+
+.br_20_px{
+    border-radius: 20px;
+}
+
+.color_white{
+    color: white;
+}
